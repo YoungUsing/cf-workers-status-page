@@ -30,5 +30,6 @@
     "webpack": "^5.105.4",
     "webpack-cli": "^7.0.2",
     "yaml-loader": "^0.6.0"
-  }
+  },
+  "packageManager": "yarn@4.9.1"
 }
